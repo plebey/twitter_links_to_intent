@@ -1,2 +1,17 @@
 # twitter_links_to_intent
-converts a link to a profile/tweet into an intent
+converts a link to a profile/tweet from ```links.txt``` into an intent-type links
+
+```
+donates: 
+EVM: 0x62123299226F017A14166e7f8f6AB0701bd65a21
+
+       ___                   __                  
+      /\_ \                 /\ \                 
+ _____\//\ \      __    ____\ \ \____  __  __    
+/\ '__`\\ \ \   /'__`\ /',__\\ \ '__`\/\ \/\ \   
+\ \ \L\ \\_\ \_/\  __//\__, `\\ \ \L\ \ \ \_\ \  
+ \ \ ,__//\____\ \____\/\____/ \ \_,__/\/`____ \ 
+  \ \ \/ \/____/\/____/\/___/   \/___/  `/___/> \
+   \ \_\                                   /\___/
+    \/_/                                   \/__/
+```
